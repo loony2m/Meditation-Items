@@ -18,6 +18,20 @@ body {
   font-family: "Roboto Regular", sans-serif;
 }
 
+.section {
+  padding-top: 55px;
+}
+.section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #757575;
+  padding-bottom: 45px;
+  font-family: "Roboto Regular", sans-serif;
+}
+.section__title {
+  padding-bottom: 45px;
+}
+
 .navbar-wrap {
   position: absolute;
   display: flex;
@@ -104,4 +118,18 @@ body {
   left: 18px;
   font-size: 14px;
   color: #E9E9E9;
+  font-family: "Roboto Regular", sans-serif;
+}
+
+.features-block {
+  display: flex;
+  justify-content: space-between;
+}
+.features-block__item {
+  text-align: center;
+  color: #757575;
+  font-size: 14px;
+  font-family: "Roboto Regular", sans-serif;
+  margin-left: -107px;
+  margin-right: -107px;
 }/*# sourceMappingURL=style.css.map */
