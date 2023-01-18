@@ -31,6 +31,13 @@ body {
 .section__title {
   padding-bottom: 45px;
 }
+.section-text {
+  text-align: center;
+  font-size: 26px;
+  color: black;
+  padding-bottom: 20px;
+  font-family: "Roboto Regular", sans-serif;
+}
 
 .navbar-wrap {
   position: absolute;
@@ -58,7 +65,7 @@ body {
 }
 
 .gong__text {
-  margin: 40px;
+  margin: 20px;
   display: block;
   font-size: 12px;
   text-transform: uppercase;
@@ -66,7 +73,7 @@ body {
 }
 
 .apparel__text {
-  margin: 40px;
+  margin: 20px;
   display: block;
   font-size: 12px;
   text-transform: uppercase;
@@ -132,4 +139,47 @@ body {
   font-family: "Roboto Regular", sans-serif;
   margin-left: -107px;
   margin-right: -107px;
+}
+
+.gon {
+  background: url("../image/gong/gong-bg.jpg") no-repeat center;
+  background-size: cover;
+  position: static;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 100vw;
+  height: 100vh;
+  left: 0px;
+  top: 0px;
+}
+
+.gon__title {
+  padding-top: 25px;
+  margin-top: 10px;
+  margin-left: 730px;
+  font-size: 26px;
+  font-family: "Roboto Regular", sans-serif;
+  color: #FFFFFF;
+}
+.gon__title-text {
+  margin-left: 705px;
+  font-size: 14px;
+  font-family: "Roboto Regular", sans-serif;
+  color: #FFFFFF;
+}
+
+.gon__bttn {
+  position: absolute;
+  margin-top: 620px;
+  left: 755px;
+}
+
+.gon__text {
+  position: relative;
+  bottom: 30px;
+  left: 18px;
+  font-size: 14px;
+  color: #E9E9E9;
+  font-family: "Roboto Regular", sans-serif;
 }/*# sourceMappingURL=style.css.map */
