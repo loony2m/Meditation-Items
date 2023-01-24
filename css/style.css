@@ -252,4 +252,52 @@ body {
   font-family: "Roboto Regular", sans-serif;
   font-size: 12px;
   color: #848484;
+}
+
+.space {
+  background: url("../image/space/space-bg.jpg") no-repeat center;
+  background-size: cover;
+  position: static;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 100vw;
+  height: 100vh;
+  left: 0px;
+  top: 0px;
+}
+.space__title {
+  margin-left: 745px;
+  padding-top: 150px;
+  font-size: 14px;
+  font-family: "Roboto Regular", sans-serif;
+  color: #FFFFFF;
+}
+
+.space__bttn {
+  position: absolute;
+  margin-top: 560px;
+  left: 700px;
+}
+
+.space__text {
+  position: relative;
+  bottom: 30px;
+  left: 18px;
+  font-size: 14px;
+  color: #E9E9E9;
+  font-family: "Roboto Regular", sans-serif;
+}
+
+.advantages-block {
+  display: flex;
+  justify-content: space-between;
+}
+.advantages-block__item {
+  text-align: center;
+  color: #757575;
+  font-size: 14px;
+  font-family: "Roboto Regular", sans-serif;
+  margin-left: -107px;
+  margin-right: -107px;
 }/*# sourceMappingURL=style.css.map */
