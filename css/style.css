@@ -149,13 +149,13 @@ body {
   padding: 0;
   border: 0;
   width: 100vw;
-  height: 100vh;
+  height: 115vh;
   left: 0px;
   top: 0px;
 }
 
 .gon__title {
-  padding-top: 25px;
+  padding-top: 55px;
   margin-top: 10px;
   margin-left: 730px;
   font-size: 26px;
@@ -171,7 +171,7 @@ body {
 
 .gon__bttn {
   position: absolute;
-  margin-top: 620px;
+  margin-top: 670px;
   left: 755px;
 }
 
@@ -205,13 +205,13 @@ body {
   padding: 0;
   border: 0;
   width: 100vw;
-  height: 100vh;
+  height: 115vh;
   left: 0px;
   top: 0px;
 }
 
 .gon__title {
-  padding-top: 25px;
+  padding-top: 55px;
   margin-top: 10px;
   margin-left: 730px;
   font-size: 26px;
@@ -227,7 +227,7 @@ body {
 
 .gon__bttn {
   position: absolute;
-  margin-top: 620px;
+  margin-top: 670px;
   left: 755px;
 }
 
@@ -262,13 +262,13 @@ body {
   padding: 0;
   border: 0;
   width: 100vw;
-  height: 100vh;
+  height: 150vh;
   left: 0px;
   top: 0px;
 }
 .space__title {
-  margin-left: 745px;
-  padding-top: 150px;
+  margin-left: 720px;
+  padding-top: 280px;
   font-size: 14px;
   font-family: "Roboto Regular", sans-serif;
   color: #FFFFFF;
@@ -276,8 +276,8 @@ body {
 
 .space__bttn {
   position: absolute;
-  margin-top: 560px;
-  left: 700px;
+  margin-top: 770px;
+  left: 670px;
 }
 
 .space__text {
@@ -300,4 +300,96 @@ body {
   font-family: "Roboto Regular", sans-serif;
   margin-left: -107px;
   margin-right: -107px;
+}
+
+.email__title {
+  padding-top: 100px;
+  margin-top: 10px;
+  margin-left: 730px;
+  font-size: 14px;
+  font-family: "Roboto Regular", sans-serif;
+  color: #757575;
+}
+
+.email__bttn {
+  position: absolute;
+  margin-top: 20px;
+  left: 670px;
+}
+
+.email__text {
+  position: relative;
+  bottom: 26px;
+  left: 105px;
+  font-size: 14px;
+  color: #757575;
+  font-family: "Roboto Regular", sans-serif;
+}
+
+.panel-wrap {
+  margin-top: 130px;
+  position: static;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.walden__text {
+  margin: 20px;
+  display: block;
+  font-size: 14px;
+  color: #757575;
+}
+
+.faq__text {
+  margin: 20px;
+  display: block;
+  font-size: 14px;
+  color: #757575;
+}
+
+.reading__text {
+  margin: 20px;
+  display: block;
+  font-size: 14px;
+  color: #757575;
+}
+
+.mail__text {
+  margin: 20px;
+  display: block;
+  font-size: 14px;
+  color: #757575;
+}
+
+.sale__text {
+  margin: 20px;
+  display: block;
+  font-size: 14px;
+  color: #757575;
+}
+
+.inst__text {
+  margin: 20px;
+  display: block;
+  font-size: 14px;
+  color: #757575;
+}
+
+.warranty {
+  position: relative;
+  background-color: #EDEDED;
+  min-height: 60px;
+  font-weight: bold;
+  align-items: center;
+}
+.warranty__text {
+  position: absolute;
+  margin-left: 610px;
+  font-family: "Roboto Regular", sans-serif;
+  color: #3C3C3C;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px;
+  line-height: 21px;
 }/*# sourceMappingURL=style.css.map */
