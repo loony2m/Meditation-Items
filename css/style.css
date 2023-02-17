@@ -101,6 +101,7 @@ body {
 }
 
 .hero {
+  background: url("../image/hero/hero-bg.jpg") no-repeat center;
   background-size: cover;
   position: static;
   margin: 0;
